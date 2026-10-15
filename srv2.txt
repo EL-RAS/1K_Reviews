@@ -1,0 +1,8 @@
+npm notice run simple-next@0.1.0 npx
+npm notice run next start -p 3112
+   ▲ Next.js 15.5.27
+   - Local:        http://localhost:3112
+   - Network:      http://192.168.68.103:3112
+
+ ✓ Starting...
+ ✓ Ready in 794ms
