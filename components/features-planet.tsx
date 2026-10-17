@@ -2,9 +2,9 @@
 
 import Image from "next/image";
 import { useLanguage } from "@/contexts/language-context";
-import Step1Img from "@/public/images/Coffee_shop_owner_reading_review.jpg";
-import Step2Img from "@/public/images/Phone_scanning_NFC_review_card.jpg";
-import Step3Img from "@/public/images/Smartphone_showing_Google_Maps.jpg";
+import Step1Img from "@/public/images/Phone_scanning_NFC_review_card.jpg";
+import Step2Img from "@/public/images/Smartphone_showing_Google_Maps.jpg";
+import Step3Img from "@/public/images/Coffee_shop_owner_reading_review.jpg";
 
 export default function FeaturesPlanet() {
   const { t, dir } = useLanguage();
